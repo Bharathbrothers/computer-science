@@ -542,6 +542,6 @@ You can change the status of your board to be *public* or *private*.
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
 
 # extras
- -[Projects](https://github.com/StarkSources/computer-science/blob/dev/PROJECTS.md)
- -[Courses](https://github.com/StarkSources/computer-science/blob/dev/extras/courses.md)
- -[Readings](https://github.com/StarkSources/computer-science/blob/dev/extras/readings.md)
+ -[Projects](/PROJECTS.md)
+ -[Courses](/extras/courses.md)
+ -[Readings](/extras/readings.md)
