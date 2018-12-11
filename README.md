@@ -19,6 +19,7 @@
 # Contents
 
 - [Summary](#summary)
+- [Requirements](/REQUIREMENTS.md)
 - [Curriculum](#curriculum)
   - [Prerequisites](#prerequisites)
   - [Introduction to Computer Science](#introduction-to-computer-science)
